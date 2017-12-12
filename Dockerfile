@@ -39,6 +39,7 @@ RUN \
 	mako \
 	markupsafe \
 	pyopenssl \
+	rarfile \
 	service_identity \
 	six \
 	subliminal \
