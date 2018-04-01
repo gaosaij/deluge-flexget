@@ -1,4 +1,4 @@
-FROM lsiobase/alpine:3.7
+FROM lsiobase/alpine:edge
 
 #labels
 LABEL maintainer "Alexandru Mirică <n3mur1t0r@gmail.com>"
