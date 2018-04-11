@@ -19,7 +19,7 @@ RUN \
  apk add --no-cache \
 	ca-certificates \
 	curl \
-	libressl2.6-libssl \
+	libressl2.7-libssl \
 	openssl \
 	nano \
 	p7zip \
